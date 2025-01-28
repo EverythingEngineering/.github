@@ -4,10 +4,10 @@ Our mission is clear: to revolutionize Chile’s technological ecosystem, enhanc
 
 At the moment, the teams are:
 - **[Deus Schutz Aedes](https://github.com/DeusSchutzAedes)**: Structural & Earthquake Engineering (RPBEE analysis)
-- **Wissen Machina**: Mechanical Engineering (robotics and AI)
-- **Lux Scientia**: Knowledge development (physics, chemestry, maths, statistics)
-- **Ra Core**: Nuclear Engineering (production of elements)
-- **Logik Codex Fabrica**: Programming
+- **[Wissen Machina](https://github.com/WissenMachina)**: Mechanical Engineering (robotics and AI)
+- **[Lux Scientia](https://github.com/Lux-Scientia)**: Knowledge development (physics, chemestry, maths, statistics)
+- **[Ra Core](https://github.com/Ra-Core)**: Nuclear Engineering (production of elements)
+- **[Codex Fabrica](https://github.com/CodexFabrica)**: Programming
 
 Thank you for being part of this extraordinary mission. Together, we will achieve greatness.
 
